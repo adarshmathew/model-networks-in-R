@@ -1,0 +1,25 @@
+---
+title: "Exploring Network Modelling and Analysis in R"
+output: html_notebook
+---
+
+## Motivation
+
+So, I have this looming fellowship application, for which I need a decent writing sample. Given my lack of history in this field, it needs to be something new, something relevant, and something cutting-edge.  
+
+I just completed Matt Jackson's "Social And Economic Networks" course (bless him) on Coursera, and I was rueing how it didn't have a practical componet. Partly because stuff like Gephi seemd too viz-zy and GUI-based, which I want to move away from. Partly because I knew Arun and he do most of their work in MATLAB. And I sorely need a MATLAB revision. But mostly, given  my comfort with R, I was unsure how to switch modes to MATLAB.  
+
+So I do some digging around on the Internet, and I come across something called `tidygraph`. And the name calls out to me right off the bat, thanks to Wickham and his tidyverse, my go-to tool for data manipulation.
+
+This notebook will catalogue my exploration of this package, along with others I stumble across, and just replicating basic stuff on tutorials. The end-goal being that I should be able to manipulate data on the JPAL Microfinance dataset for an interesting writing sample.
+
+Thing is, Chetty's deadline is 28th of Feb. Aaaaaaa! How did I not see this before! Ugh. Even if Devika says they've filled their positions, I'm not giving up. I'm sending something across the finish line there.
+
+So, here we go. <cracks knuckles in Fletcher's Ginn Library (thank you Dipali)>
+
+## Tidygraph
+
+```{r}
+
+```
+
